@@ -3,7 +3,7 @@ import Banner from './Banner'
 import './Home.css'
 import Card from './Card'
 
-export default function Home() {
+export default function Home() { 
     return (
         <div className="home">
             <Banner />
